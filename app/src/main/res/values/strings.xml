@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="confirmarpassword">Confirmar Contraseña</string>
+    <string name="imginicoseseion">imagen sesion inicio</string>
+    <string name="btn_iniciar_sesion">Iniciar Sesion</string>
+    <string name="olvido_password">¿Olvido su contraseña?</string>
+    <string name="email">Correo electrónico</string>
+    <string name="register">Registrarse</string>
+    <string name="login_registar">¿ Ir a iniciar sesion?</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
